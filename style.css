@@ -11,7 +11,7 @@ header {
     color: rgb(42, 122, 228);
 }
 section{
-    background-color: rgb(red, green, blue)
+    background-color: green
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
